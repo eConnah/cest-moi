@@ -1,0 +1,7 @@
+title = "C'est Moi"
+input_dir = "src"
+output_dir = "build"
+stylesheet_paths = ["src/custom.css"]
+
+[search]
+enable = false

@@ -1,0 +1,10 @@
+.sidebar,
+.sidebar-toggle,
+.mobile-sidebar-container {
+    display: none !important;
+}
+
+.layout,
+.js .layout {
+    padding-left: 0 !important;
+}
