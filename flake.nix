@@ -30,7 +30,7 @@
         };
 
         dockerImage = pkgs.dockerTools.buildLayeredImage {
-          name = "my-markdown-page";
+          name = "faitmaison-cest_moi";
           tag = "latest";
           contents = [pkgs.darkhttpd site];
           config = {
