@@ -38,6 +38,10 @@ I know these languages, not in any particular order:
 - Java
 - English
 
+and I am learning these languages:
+
+- Rust
+
 ## Some things I've worked on
 
 - Built a full-stack inventory tracking app (Java/JavaFX) as part of coursework,
@@ -51,6 +55,7 @@ My dots are quite modular but not overly complex, I like things quite minimal
 you can see more screenshots and the files
 [here.](https://github.com/eConnah/nix-dots)
 ![app-launcher](https://assets.econnah.uk/readme/app-launcher.png)
+![fetch](https://assets.econnah.uk/readme/fetch.png)
 
 ## Special Mentions
 
@@ -63,10 +68,9 @@ them and their communities the world:
   with all that ability.
 - [Nixos-Apple-Silicon](https://github.com/nix-community/nixos-apple-silicon) -
   For saving me from Fedora (never even tried it).
-- [Asahi Linux](https://asahilinux.org/) - Maining this completely hardly touch
-  MacOS now.
+- [Asahi Linux](https://asahilinux.org/) - Almost never need to touch MacOS now.
 - [Hyprland](https://hypr.land/) - Love everyone in the nix-nixos channel <3
-- [Lix](https://lix.systems/) - For a better future.
+- [Lix](https://lix.systems/) - Looking forward to a better future with Nix.
 
 ## Any Problems?
 
