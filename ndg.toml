@@ -1,6 +1,7 @@
 title = "C'est Moi"
 input_dir = "src"
 output_dir = "build"
+assets_dir = "assets"
 stylesheet_paths = ["src/custom.css"]
 
 [search]
