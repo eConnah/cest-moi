@@ -6,7 +6,7 @@ title = "C'est Moi"
 
 # Hei Hei, I'm Connor Alecks
 
-<img src="https://assets.econnah.uk/profile-pics/connor.jpg" alt="Connor Alecks" width="40%" align=right>
+<img src="https://assets.econnah.uk/nix/profile-pics/connor.jpg" alt="Connor Alecks" width="40%" align=right>
 Welcome to my
 home page. I like coding and Nix, two things which go well together... in theory.
 
@@ -32,10 +32,10 @@ learning-rust   → working through Rust fundamentals, project by project
 
 I know these languages, not in any particular order:
 
-- Nix
+- [Nix](/nix.html)
 - French
-- C#
-- Java
+- [C#](/csharp.html)
+- [Java](/java.html)
 - English
 
 and I am learning these languages:
@@ -54,8 +54,8 @@ and I am learning these languages:
 My dots are quite modular but not overly complex, I like things quite minimal
 you can see more screenshots and the files
 [here.](https://github.com/eConnah/nix-dots)
-![app-launcher](https://assets.econnah.uk/readme/app-launcher.png)
-![fetch](https://assets.econnah.uk/readme/fetch.png)
+![app-launcher](https://assets.econnah.uk/nix/readme/app-launcher.png)
+![fetch](https://assets.econnah.uk/nix/readme/fetch.png)
 
 ## Special Mentions
 
