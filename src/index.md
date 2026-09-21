@@ -6,7 +6,9 @@ title = "C'est Moi"
 
 # Hei Hei, I'm Connor Alecks
 
-<img src="https://assets.econnah.uk/nix/profile-pics/connor.jpg" alt="Connor Alecks" width="40%" align=right>
+<a href="https://bsky.app/profile/lihichi2808.bsky.social/post/3mew4b65kp22l" target="_blank" rel="noopener noreferrer">
+  <img src="https://assets.econnah.uk/nix/profile-pics/connor.jpg" alt="Profile Pic by lihichi2808" width="40%" align="right">
+</a>
 Welcome to my
 home page. I like coding and Nix, two things which go well together... in theory.
 
