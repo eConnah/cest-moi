@@ -4,7 +4,7 @@ title = "C'est Moi"
 
 <link rel="icon" type="image/svg+xml" href="/assets/nix.svg">
 
-# Hei Hei, I'm Connor Alecks
+# Hei Hei, welcome <3
 
 <a href="https://bsky.app/profile/lihichi2808.bsky.social/post/3mew4b65kp22l" target="_blank" rel="noopener noreferrer">
   <img src="https://assets.econnah.uk/nix/profile-pics/connor.jpg" alt="Profile Pic by lihichi2808" width="40%" align="right">
